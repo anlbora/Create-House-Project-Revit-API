@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\SimpleHouseProject\SimpleHouseProject\bin\Debug\SimpleHouseProject.dll
+C:\Users\PC\source\repos\SimpleHouseProject\SimpleHouseProject\bin\Debug\SimpleHouseProject.pdb
+C:\Users\PC\source\repos\SimpleHouseProject\SimpleHouseProject\obj\Debug\SimpleHouseProject.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SimpleHouseProject\SimpleHouseProject\obj\Debug\SimpleHouseProject.MainUI.resources
+C:\Users\PC\source\repos\SimpleHouseProject\SimpleHouseProject\obj\Debug\SimpleHouseProject.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\SimpleHouseProject\SimpleHouseProject\obj\Debug\SimpleHouseProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SimpleHouseProject\SimpleHouseProject\obj\Debug\SimpleHouseProject.dll
+C:\Users\PC\source\repos\SimpleHouseProject\SimpleHouseProject\obj\Debug\SimpleHouseProject.pdb
