@@ -38,6 +38,16 @@ This project is a Revit add-in developed using the Revit API. The add-in allows 
 - `Application`: Represents the main entry point of the add-in, responsible for creating the custom Ribbon Panel.
 - `main`: Represents the external command class that executes the main logic of the add-in.
 
+## Future Improvements
+
+### User Interface Enhancements
+- Advanced Configuration
+- Visual Feedback
+
+### Additional Features
+- Furniture and Fixtures
+- Custom Templates
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
