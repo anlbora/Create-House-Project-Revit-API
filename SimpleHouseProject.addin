@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>HOUSE</Name>
+		<FullClassName>SimpleHouseProject.Application</FullClassName>
+		<Assembly>SimpleHouseProject.dll</Assembly>
+		<AddInId>19B9744F-D27A-4F8A-BCA8-61836DEA92B3</AddInId>
+		<VendorId>PLUGIN</VendorId>
+		<VendorDescription>Training with Revit API C#</VendorDescription>
+	</AddIn>
+</RevitAddIns>
